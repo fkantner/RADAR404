@@ -1,0 +1,23 @@
+canvas {
+	background: grey;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	width: 1000px;
+}
+body {
+	background: black;
+}
+.dialog {
+	color: green;
+	text-align: center;
+}
+.dialog h1 {
+	
+}
+.dialog > p {
+	
+}
+.dialog div p {
+	
+}
